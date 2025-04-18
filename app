@@ -1,1 +1,1 @@
-Delete invalid app placeholder
+
