@@ -1,3 +1,3 @@
 # Codewave Creations
 
-SaaS Starter (Next.js + TailwindCSS + Supabase + Stripe)
+This is a starter Next.js app with App Router support.
