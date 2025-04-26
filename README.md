@@ -1,3 +1,5 @@
 # Codewave Creations
 
-This is a starter Next.js app with App Router support.
+ npm install --save-dev typescript @types/react @types/node
+ 
+
